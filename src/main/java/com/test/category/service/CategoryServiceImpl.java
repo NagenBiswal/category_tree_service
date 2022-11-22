@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.test.category.constants.AppConstants;
-import com.test.category.entiry.Category;
+import com.test.category.entity.Category;
 import com.test.category.exception.ApplicationException;
 import com.test.category.exception.DuplicateCategoryException;
 import com.test.category.exception.InvalidCategoryException;

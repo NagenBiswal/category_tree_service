@@ -1,4 +1,4 @@
-package com.test.category.entiry;
+package com.test.category.entity;
 
 import java.io.Serializable;
 import java.util.List;
